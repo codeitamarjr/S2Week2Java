@@ -5,7 +5,7 @@ public class Main {
 
         Strings.strings();
 
-        //LongestString.printLongestString();
+        LongestString.printLongestString();
 
 
     }
